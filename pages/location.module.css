@@ -1,10 +1,4 @@
-.container {
+.map {
     height:100vh;
-    background-color: black;
-    color:white;
-}
-
-.header {
-    font-size:30px;
-    padding:10px;
+    width:100vw;
 }
