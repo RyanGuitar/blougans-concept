@@ -37,8 +37,8 @@ function MyApp({ Component, pageProps }) {
       <a className="back-icon">
       <Image
         src="/icons/back.png"
-        width={35}
-        height={35}
+        width={45}
+        height={45}
       />
       </a>
     </Link>
