@@ -21,35 +21,27 @@ a {
 }
 
 .bedroom-icon {
-  position:absolute;
-  left:40px;
+  position:fixed;
+  left:10px;
   bottom:3px;
 }
 
 .location-icon {
-  position:absolute;
-  left:110px;
-  bottom:3px;
+  position:fixed;
+  left:10px;
+  bottom:48px;
 }
 
 .gallery-icon {
-  position:absolute;
-  left:180px;
-  bottom:3px;
+  position:fixed;
+  left:10px;
+  bottom:93px;
 }
 
 .back-icon {
-  position:absolute;
-  right:40px;
+  position:fixed;
+  right:5px;
   bottom:3px;
 }
 
-.icon-bg {
-  position:fixed;
-  z-index:1;
-  bottom:0;
-  left:0;
-  background: black;
-  height:50px;
-  width:100vw;
-}
+

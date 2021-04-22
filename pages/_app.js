@@ -6,7 +6,6 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <Component {...pageProps} />
-    <div className="icon-bg">
       <Link href="/rooms">
         <a className="bedroom-icon">
         <Image
@@ -43,7 +42,6 @@ function MyApp({ Component, pageProps }) {
       />
       </a>
     </Link>
-    </div>
     </>
   )
 }
